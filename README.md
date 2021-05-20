@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Ecommerce One stop shop
+### [Live Demo](https://zicky-one-stop-shop.netlify.app/)
+
+## This is an online store that can literally sell merchandise.
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
