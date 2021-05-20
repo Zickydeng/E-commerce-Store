@@ -2,6 +2,7 @@
 ### [Live Demo](https://zicky-one-stop-shop.netlify.app/)
 
 ## This is an online store that can literally sell merchandise.
+![Ecommerce shop](Zicky's shop.png?raw=true "Ecommerce shop")
 
 
 
